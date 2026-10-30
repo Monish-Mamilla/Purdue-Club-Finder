@@ -27,5 +27,19 @@ I am going to build a web application that allows Purdue students to browse, sea
 - Data source: Publicly available Purdue BoilerLink information.
 - Development tools: VS Code and GitHub.
 
-## 2.3 Chunked Build Plan
-1. Set up the GitHub repository and Flask development
+## 2.3 Build Plan
+1. Set up the GitHub repository and Flask development.
+2. Create the basic Flask application and homepage.
+3. Create a JSON file containing Purdue club information.
+4. Write Python functions to load and organize club data.
+5. Display all clubs on the website with their basic information.
+6. Implement search functionality to find clubs by name.
+7. Add filters to sort clubs by category and interests.
+8. Improve the website layout and styling using Bootstrap.
+9. Test all features and fix bugs.
+
+## 3.1 GitHub Repository
+https://github.com/Monish-Mamilla/Purdue-Club-Finder
+
+## 3.2 System Diagram
+![System Diagram](Campus%20Club%20Diagram.drawio.png)
